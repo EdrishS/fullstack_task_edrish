@@ -24,8 +24,9 @@ CSS/SCSS
 # Setup
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Start the backend server.
+3. Start the backend server.(websocket-server)
    `ts-node server.ts`
 4. Start the frontend development server.
+   `npm install`
    `npm run start`
-5. Access the application at `http://localhost:3000`.
+6. Access the application at `http://localhost:3000`.
