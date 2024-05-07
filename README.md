@@ -19,6 +19,7 @@ Express.js
 
 # Frontend
 React.js
+Typescript
 CSS/SCSS
 
 # Setup
